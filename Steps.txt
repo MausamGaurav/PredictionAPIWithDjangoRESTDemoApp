@@ -1,0 +1,8 @@
+1) Install Django version 2.2 with command:
+	python -m pip install Django==2.2.0
+2) Check Django is installed by command:
+	python -m django --version
+   This should produce the output below:
+	2.2
+3) From the command line, cd into a directory where you’d like to store your code, then run the following command:
+django-admin startproject ModelAPI
